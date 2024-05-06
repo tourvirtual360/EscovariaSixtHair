@@ -12,18 +12,15 @@ tour.name = Escovaria SIXTHAIR
 
 ### Button
 Button_2CE05050_3C5B_5390_41C6_2F0050324E64.label = CONHEÇA NOSSAS ASSINATURAS
-Button_2CE05050_3C5B_5390_41C6_2F0050324E64_mobile.label = CONHEÇA NOSSAS ASSINATURAS
+Button_2CE05050_3C5B_5390_41C6_2F0050324E64_mobile.label = CONHEÇA NOSSOS PLANOS
 Button_40B11DC9_4E70_B45F_41B7_3C0FBB1A0723.label = Escovaria SixtHair
 Button_40B11DC9_4E70_B45F_41B7_3C0FBB1A0723_mobile.label = Escovaria SixtHair
 Button_59D58EA5_4E90_54D7_41C6_BE9582F8BAB1.label = Escovaria SixtHair
-Button_59D58EA5_4E90_54D7_41C6_BE9582F8BAB1_mobile.label = Escovaria SixtHair
+Button_59D58EA5_4E90_54D7_41C6_BE9582F8BAB1_mobile.label = Barbearia Morada
 Button_59DECD9C_4E90_54F5_41D3_5C8535D83972.label = Escovaria SixtHair
-Button_59DECD9C_4E90_54F5_41D3_5C8535D83972_mobile.label = Escovaria SixtHair
+Button_59DECD9C_4E90_54F5_41D3_5C8535D83972_mobile.label = Barbearia Parque 10
 Button_5E9C2ED3_4E90_544C_41B6_A2207A4E82C0.label = CONHEÇA NOSSAS UNIDADES
 Button_5E9C2ED3_4E90_544C_41B6_A2207A4E82C0_mobile.label = CONHEÇA NOSSAS UNIDADES
-
-### Multiline Text
-HTMLText_59B6DE20_4EB0_57CD_41C7_CA04DDC8F034.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:10.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.5px;"><B>Você está em {{Title}}</B></SPAN></SPAN></DIV></div>
 
 ### Tooltip
 Button_5AEDA318_48F8_5D45_41D2_11FA66B9A978.toolTip = CONFIGURAÇÕES
