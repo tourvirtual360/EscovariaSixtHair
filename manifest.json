@@ -1,8 +1,9 @@
 {
- "name": "Escovaria SIXTHAIR",
+ "start_url": "index.htm",
  "theme_color": "#FFFFFF",
  "description": "Escovaria por Assinatura em Manaus.",
- "start_url": "index.htm",
+ "background_color": "#FFFFFF",
+ "name": "Escovaria SIXTHAIR",
  "icons": [
   {
    "type": "image/png",
@@ -40,6 +41,5 @@
    "src": "misc/icon64.png"
   }
  ],
- "background_color": "#FFFFFF",
  "display": "fullscreen"
 }
