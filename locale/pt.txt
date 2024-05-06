@@ -1,0 +1,45 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Escovaria por Assinatura em Manaus.
+
+### Title
+tour.name = Escovaria SIXTHAIR
+
+## Skin
+
+### Button
+Button_2CE05050_3C5B_5390_41C6_2F0050324E64.label = CONHEÇA NOSSAS ASSINATURAS
+Button_2CE05050_3C5B_5390_41C6_2F0050324E64_mobile.label = CONHEÇA NOSSAS ASSINATURAS
+Button_40B11DC9_4E70_B45F_41B7_3C0FBB1A0723.label = Escovaria SixtHair
+Button_40B11DC9_4E70_B45F_41B7_3C0FBB1A0723_mobile.label = Escovaria SixtHair
+Button_59D58EA5_4E90_54D7_41C6_BE9582F8BAB1.label = Escovaria SixtHair
+Button_59D58EA5_4E90_54D7_41C6_BE9582F8BAB1_mobile.label = Escovaria SixtHair
+Button_59DECD9C_4E90_54F5_41D3_5C8535D83972.label = Escovaria SixtHair
+Button_59DECD9C_4E90_54F5_41D3_5C8535D83972_mobile.label = Escovaria SixtHair
+Button_5E9C2ED3_4E90_544C_41B6_A2207A4E82C0.label = CONHEÇA NOSSAS UNIDADES
+Button_5E9C2ED3_4E90_544C_41B6_A2207A4E82C0_mobile.label = CONHEÇA NOSSAS UNIDADES
+
+### Multiline Text
+HTMLText_59B6DE20_4EB0_57CD_41C7_CA04DDC8F034.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:10.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.5px;"><B>Você está em {{Title}}</B></SPAN></SPAN></DIV></div>
+
+### Tooltip
+Button_5AEDA318_48F8_5D45_41D2_11FA66B9A978.toolTip = CONFIGURAÇÕES
+Button_5AEDA318_48F8_5D45_41D2_11FA66B9A978_mobile.toolTip = CONFIGURAÇÕES
+
+## Media
+
+### Title
+panorama_519861BE_48B8_3CBA_41CB_B63CBA1B6E4A.label = Escovaria SixtHair
+panorama_53D28389_48B8_7D47_41D1_AA341A5D2D1B.label = Escovaria SixtHair
+
+## Action
+
+### URL
+LinkBehaviour_2DEA30AB_3C48_D4B0_41BA_041711FD3B31.source = https://celcash.celcoin.com.br/landingpage6683876/sixthair
+LinkBehaviour_56B14CA0_4E8F_D4CD_41D3_6E932D8B3FAC.source = https://celcash.celcoin.com.br/landingpage6683876/sixthair
+LinkBehaviour_56D679A1_4948_CD46_41CE_58A0CA48F6DC.source = https://celcash.celcoin.com.br/landingpage6683876/sixthair
+LinkBehaviour_59366F1E_4EB0_F5F4_41C9_7308ECE37ED0.source = https://wa.link/vu9oub
+LinkBehaviour_596B9FA0_4EB0_F4CD_41C0_B05273AF90CE.source = https://www.instagram.com/escovariasixthair/
